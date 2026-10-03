@@ -1,6 +1,6 @@
 # my-first-repo
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=sc1xter&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 <div align="center">
